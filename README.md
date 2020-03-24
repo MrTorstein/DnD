@@ -1,9 +1,9 @@
 # Dungeons and Dragons master repository for all the files and templates I need
 
 Structure:
-  - Encyclopedias
+  - Encyclopedias \\
     o Spell Encyclopedias
-  - Character Sheets
+  - Character Sheets \\
 5e Players Handbook
 
 If you find a problem or a mistake, please send me an email at mr.torstein@gmail.com
