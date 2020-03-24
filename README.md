@@ -1,6 +1,7 @@
-# Dungeons and Dragons master repository for all the files and templates I need
+# Dungeons and Dragons
+Master repository for all the files and templates I need
 
-Structure:
+### Structure:
   - Encyclopedias
     - Spell Encyclopedias
   - Character Sheets
