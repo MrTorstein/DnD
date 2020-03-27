@@ -1,0 +1,227 @@
+\documentclass[11pt]{article}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{babel}
+\usepackage{cite}
+\usepackage{color}
+\usepackage{enumitem}
+\usepackage{float}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage[colorlinks]{hyperref}
+\usepackage[utf8]{inputenc}
+\usepackage{multicol}
+\usepackage{paralist}
+\usepackage{pifont}
+\usepackage{tabularx}
+\usepackage{textcomp}
+\usepackage{wasysym}
+
+\newcommand{\done}{\rlap{$\square$}{\raisebox{2pt}{\large\hspace{1pt}\ding{51}}}}
+\newcommand{\available}{$\square$}
+\newcommand{\tabitem}{~~\llap{--}~~}
+\newcommand{\tabtabitem}{~~~~~~\llap{$\bullet$}~~}
+
+\definecolor{url}{rgb}{0.1, 0.1, 0.4}
+
+\graphicspath{{<Folderpath>}}
+\hypersetup{colorlinks, urlcolor = url}
+
+\textwidth = 550pt
+\oddsidemargin = 0pt
+\hoffset = -40pt
+
+\addtolength{\voffset}{-3cm}
+
+\begin{document}
+	\begin{center}
+\Huge \textbf{<Character Name>}
+	\end{center}
+	\begin{multicols}{2}
+\noindent \begin{tabularx}{95mm}{@{}l l}
+\Large \textbf{Personality:} 	& 						\\
+\hline
+\textbf{Race:} 					& <Race>	 			\\
+\textbf{Sex:} 					& <Sex> 				\\
+\textbf{Class:}					& <Class>				\\
+\textbf{Level:} 				& <Level>				\\
+\textbf{Age:} 					& <Age> years old		\\
+\textbf{Height:} 				& <Height> meters tall 	\\
+\textbf{Muscle Mass:} 			& <Size> 				\\
+\textbf{Colour:} 				& <Colour> skin tone 	\\
+\textbf{Mass:} 					& <Mass> kg		 		\\
+\textbf{Nature:} 				& <Alignment>	 		\\
+		\end{tabularx} \\
+\textbf{Backstory:} \\
+<Backstory facts>
+
+\noindent \begin{tabularx}{95mm}{@{}l}
+{\Large \textbf{Languages:}} \\
+\hline
+\tabitem Common \\
+\tabitem <Language> \\
+		\end{tabularx}
+
+\vspace{4mm}
+
+\noindent \begin{tabularx}{95mm}{@{}l l}
+\Large \textbf{Traits:}		 	& 									\\
+\hline
+\textbf{Hit points:} 			& <Hp>/<hit dc $+$ Const.> 			\\
+\textbf{Armour class:} 			& <10$+$Am.$+$Sh.$+$Dex.$+$Size> 	\\
+\textbf{Initiative:} 			& <Dex.>							\\
+\textbf{Speed:} 				& <Speed>	 						\\
+\textbf{Passive Wisdom:} 		& <10$+$Wiz>	 					\\
+\textbf{Proficiency bonus:}		& 2									\\
+\textbf{Spells Prepared:} 		& <If wiz, Lvl.$+$Int.>				\\
+\textbf{Exp:} 					& 0/300 							\\
+		\end{tabularx}
+
+\vspace{2mm}
+
+\noindent \begin{tabularx}{95mm}{@{}l}
+{\Large \textbf{Skills:}} \\
+\hline
+\tabitem <Proficient Skill> \\
+\tabitem <Proficient Skill> \\
+		\end{tabularx}
+
+\vspace{4mm}
+
+\noindent \begin{tabularx}{95mm}{@{}l|c|c}
+\multicolumn{3}{@{}l}{\Large \textbf{Attributes:}} \\
+\hline
+		\end{tabularx}
+\noindent \begin{tabular}{@{}l|c|c}
+\textbf{Category:} 			& \textbf{Value:} 	& \textbf{Mod:} \\
+\hline
+Strength 					& <Value> 				& <Value>		\\
+Dexterity 					& <Value> 				& <Value>		\\
+Wisdom 						& <Value>				& <Value>		\\
+Constitution 				& <Value> 				& <Value>		\\
+Intelligence 				& <Value> 				& <Value>		\\
+Charisma 					& <Value> 				& <Value> 		\\
+		\end{tabular}
+
+\vspace{4mm}
+
+\noindent \begin{tabularx}{95mm}{@{}l}
+{\Large \textbf{Save Throws:}} \\
+\hline
+\tabitem <Proficient Attribute> \\
+\tabitem <Proficient Attribute> \\
+		\end{tabularx}
+\noindent Spell save DC $= 8 + $<Prof. bon.>$ + $<Spell. Attribute>
+
+\vspace{4mm}
+
+\noindent \begin{tabularx}{95mm}{@{}l}
+{\Large \textbf{Weapons:}} \\
+\hline
+\tabitem <Starting Weapon> (proficent) <Damage> damage \\
+\tabitem <Starting Weapon> (proficent) <Damage> damage \\
+		\end{tabularx}
+
+\vspace{4mm}
+
+\noindent \begin{tabularx}{95mm}{@{}l}
+{\Large \textbf{Choosen Abilities:}} \\
+\hline
+\tabitem <Choosen Ability> \\
+\tabtabitem <Under Ability> \\
+		\end{tabularx}
+
+\vspace{4mm}
+
+\noindent \begin{tabularx}{95mm}{@{}l c}
+{\Large \textbf{Spell Slots:}} \\
+\hline
+1st level slot & \done \\
+1st level slot & \available \\
+		\end{tabularx}
+	\end{multicols}
+
+\clearpage
+
+	\begin{center}
+{\LARGE \textbf{Spellbook "If you have one"}}
+	\end{center}
+
+	\begin{tabularx}{\textwidth}{X|r}
+\multicolumn{1}{c|}{\large \textbf{Cantrips}:} & \\
+\hline
+<Spell> 										& 	\\
+<Spell> 										& 	\\
+<Spell>		 									&	\\
+
+\multicolumn{1}{c|}{\large \textbf{1st. Level Spells}} & \\
+\hline
+<Spell>			 								& \available \\
+<Spell> 										& \available \\
+<Spell>											& \done \\
+<Spell> 										& \done \\
+<Spell>				 							& \done \\
+<Spell> 										& \done \\
+
+\multicolumn{1}{c|}{\large \textbf{2nd. Level Spells}} &	\\
+\hline
+												&	\\
+
+\multicolumn{1}{c|}{\large \textbf{3rd. Level Spells}} & \\
+\hline
+ 												&  	\\
+
+\multicolumn{1}{c|}{\large \textbf{4th. Level Spells}} & \\
+\hline
+ 												&  	\\
+
+\multicolumn{1}{c|}{\large \textbf{5th. Level Spells}} & \\
+\hline
+	 											&  	\\
+
+\multicolumn{1}{c|}{\large \textbf{6th. Level Spells}} & \\
+\hline
+	 											&  	\\
+
+\multicolumn{1}{c|}{\large \textbf{7th. Level Spells}} & \\
+\hline
+	 											&  	\\
+
+\multicolumn{1}{c|}{\large \textbf{8th. Level Spells}} & \\
+\hline
+	 											&  	\\
+
+\multicolumn{1}{c|}{\large \textbf{9th. Level Spells}} & \\
+\hline
+	 											&  	\\
+	\end{tabularx}
+
+\clearpage
+
+	\begin{center}
+{\LARGE \textbf{Items}}
+	\end{center}
+
+	\begin{tabularx}{\textwidth}{X|r}
+Item & Weight [kg] \\
+\hline
+<Items> \dotfill 							& <Weight> 	\\
+<Nr. of Gold pieces> gp 					& 			\\
+\hline
+Sum 										& <Weight> \\
+	\end{tabularx}
+
+\vspace{10mm}
+
+\textbf{Carrying capacity:} \\
+
+	\begin{tabular}{l|c}
+Category & Weight [kg] \\
+\hline
+Lightly encumbered 	& 0 - <5 * Strength / 2> 	\\
+Encumbered 			& <5 * Strength / 2> - <10 * Strength / 2> \\
+Heavily encumbered	& <10 * Strength / 2> - <15 * Strength / 2> \\
+	\end{tabular}
+\end{document}
