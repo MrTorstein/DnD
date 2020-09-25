@@ -4,7 +4,7 @@ Master repository for all the files and templates I need
 ### Structure:
   - Encyclopedias
     - Spell Encyclopedias
-    - Infusion Encyclopedias
+    - Class Specific Encyclopedias
   - Character Sheets
 
 5e Players Handbook
