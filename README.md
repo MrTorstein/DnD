@@ -2,10 +2,11 @@
 Master repository for all the files and templates I need.
 
 ### Structure:
+  - Character Sheets
   - Encyclopedias
     - Spell Encyclopedias
     - Class Specific Encyclopedias
-  - Character Sheets
+  - Self Made Content
 
 5e Players Handbook  
 5e Basic Rules  
