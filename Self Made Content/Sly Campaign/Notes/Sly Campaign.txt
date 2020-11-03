@@ -1,0 +1,177 @@
+Notes on the Sly Cooper one shot campaign
+
+Who are involved:
+- The gang:
+	- Sly
+	- Bentley
+	- Murray
+- Evil gang:
+	- Jessie James: Long-tailed weasel
+		Bankowner scared for his bank to be robbed and has asked the police to look after the place. He is rich and snobbish, with a large mustach and a nice suit.
+		Really a very successful bankrobber himself, who uses his bank as a secret moneylaundering business to hide his robberies. Very intelligent and cruel, killing anyone who threatens him. 
+	- Minions(Guards) All are named Johnson
+		- Buff guy: American black bear
+			Holds a short spear and a lit torch. Very buff, with a lot of health and deal a fair amount of damage
+		- Ranged guy: River otter
+			Bowmen, ranged but with low health.
+		- Melee guy: Beaver
+			Swordmen, same health as ranged, but a little higher AC. 
+- Police:
+	- Carmelita Montoya Fox
+		Police officer and leader of the operation
+	- Mercenaries: Gorillas
+		Clubs and Heavy crossbows
+
+
+Mission:
+	To rob the bank of the notorious bank robber Jessie James without being spotted and escape with the gold
+Side mission:
+	Reveal Jessie for the guy he is and let him be captured by Carmelita without being captured themselves
+
+Locations:
+	- Cooper hideout
+		Safehouse used to plan operation
+	- Bank
+		Four floors and 2 other areas: U2 - Sewers, U1 - vault, E1 - entreance, E2 - offices, E3 - hangout and office of Jessie James, E4 - Roof
+		- U2: Filled with water, but lead to a U1 or E1 through grates. Murray is to large to fit through here, Bently is a vegitable and his chair is unpractical to bring in here.
+		- U1: Steps down from E1, long hall with a buff guard patrolling and a giant steel door into the vault. The door has a code lock found in E3 in a picture, and a 4th level alarm spell on it which 
+			  needs to be dispelled. The vault is large with drawers filled with gold bars. There is also a small wooden cart to move gold there.
+		- Outside: Here there are people coming and going, and a large entrence to the bank. There are two guards at the entrence who makes sure weapons aren't brought into the bank. At the sides and
+				   back of the building there are windows and holes in the wall, letting Sly scale the building, using about 12 min if passing DC 15 Dex check. The walls are 30 meters high. There is a
+				   single buff guard patrolling the building, walking around the building in 30 min.
+		- E1: The main hall of the bank and also the normal entrence for customers. A large hall with a long desk area stretching across the whole room except for three gates, one at each wall and one 
+		      in the midle of the room. There are employees working for the bank an queue in front of each desk. There are INTERPOL in each corner of the room and a guard at each side of both entrences.
+			  At the back of the room there is two stairs, one leading up to E2 and one down to U1.
+		- E2: Long hall with lots of offices where people work. There are also two minions, one buff and one melee, patrolling. Most of these work with banking but some also help whitewash money and if
+			  looking through these offices it is possible to find evidence of the robberies where most of the banks money come from. Carmelita can be found in one of these offices talking with two of her
+			  INTERPOL employees. She will patrol E2 and E1 every hour in real life time. This takes about 5 min. There is also a set of stairs up to next floor and a cupboard.
+		- E3: HQ of Jessie James, Carmelita is not allowed here. The floor is a short corridor to a locked door with a guard standing in front of it. This door can be picked open(DC20), and inside is an
+			  empty office of Jessie. There is a large landscape painting on one of the walls with a code in it. There is also a desk with incriminating paper, a cupboard with spirits and a few bookshelf
+			  with lots of books. A large carpet on the floor. In the roof there is a large window, leading to the roof. Jessie visits for 10 min every real life even number half hour(f.ex. 14:30 or
+			  02:30).
+		- E4: Window into Jessie's office and four ranged guards patrolling.
+	- City: Misso
+		- Buy equipment
+			Smokebombs cost 10 gp
+			Bombs cost 20 gp
+			Ammo - 20 arrows cost 1 gp
+			Potions - Health cost 50 gp, Greater Health cost 100 gp, Water breathing cost 100 gp, Lightning resistance cost 100 gp
+			Poisons - Damage contact cost 200 gp, Sleeping injury cost 50gp
+			Grease - Oil of slipperyness cost 50 gp
+			Barrel of black powder cost 500 gp
+			Water proof bag of leather cost 10 gp
+			Giant metal hook cost 10 gp
+			Uniforms for the bank can be made for 10 gp each
+		- Information
+			- Can tail Jessie to the barracks and find out about Carmelita protecting the place, knowing where she have placed her guards. He will also reveal there is a code to the vault in his office.
+		- Visit Tavern
+			- Meet someone who works on in the bank, giving them an incomplete map of the bank and that there is a code to the vault which only Jessie and one other person knows
+			Not possible to find this other person).
+			- This is where the guards hang, letting the gang both check out the potential guards (perhaps fight them in a brawl) and if done correctly reduce the potential amout of guards.
+			That could be done either by suggesting a strike or bulling enough guards. Or perhaps beating up enough in a brawl.
+			They can also observe the guards uniforms to potentialy make replicas of these uniforms.
+		- Library
+			Here they can get the floor plans of any building in the city.
+		- Castle and Temple
+			In theory there is little to nothing planed for these areas, the castle is locked to all people and you are told to visit the barracks for more information and the temple is just a temple.
+
+Equipment they have already:
+	- The Cooper carriage, Murray can drive this
+	- 660 gp split among them
+
+
+Timeline:
+	- The first day
+		- The gang wakes up in HQ.
+		- Jessie going to the police and asking them about the security.
+		- The guards check the northern fourth of the city for the Cooper gang.
+	- The second day
+		- The guards check the second fourth of the city for the Cooper gang.
+	- The third day
+		- The guards check the third fourth of the city for the Cooper gang.
+	- The fourth day
+		- The guards come knocking on the door of the Cooper HQ in the morning and will try to arrest them if they are here then. If not, they can't return here unless they want to be arrested. The also
+		lose any equipment left here and their carriage if it is here aswell.
+	- All days
+		- Jessie visits his office every enven number half hour in real life time. In the day, he is here all the time except day one.
+		- Carmelita hangs out in the large office in E2 with two Gorillas at night and patroll E1 and E2 every hour.
+		- Tavern is full of guards.
+
+
+Going to the Black Market:
+You travel through the city to a speculative street near the north west exit. The buildings here are wooden as apposed to stone, with fewer windows, and the streets are narrower. Knowing the common
+language of the worlds less honest population, you find a building marked with what you know is the sign of the black market. Sneaking inside you follow a set of stairs down to a dark room with three
+counters and three people. One of them, a woman, greets you:
+- Looking to walk a little of the narrow path today? We might have something to help you there.
+She indicates to here wares.
+	Smokebombs - 10gp
+	Bombs - 20gp
+	Barrel of black powder - 500gp
+	Any other explosive things you could think of, but think about their effect and the price
+The Orc has got
+	Giant hook - 10gp
+	20 arrows or bolts - 1gp
+	Water proof bag of leather, large enough for the barrel - 10gp
+	Can create uniforms if given a description - 10 gp each
+	Weaponry and smithing items
+The Elf has
+	Potion of Health - 50gp
+	Greater potion of Health - 100gp
+	Potion of Water Breathing - 100gp
+	Potion of Lightning Resistance - 100gp
+	Poisons of Cloroform - 50gp (Injury, DC17 con save or fall asleep for 1 minute)
+	Poison of damage - 200gp (Contact, deal extra 2d10 poison damage)
+	Oil of slipperyness - 50gp (Creates Grease spell if spilled on floor)
+	Any alcemical items
+
+
+Going to the Bank in the day:
+You walk to the bank near the south western entrence of the city and find yourself in a large square. Most of the open square is taken up by the bank, a large stone building with marble stairs leading
+up to a two giant wooden doors. Stone pilars decorate the front and hold a roof over the entrence, and the back of the building almost joins with the much lower houses beihind it to create a backalley.
+People are walking up and down the square, some visiting the bank, others simply passing through. While you stand there, you see a weasel dressed in a black suite with white vertical stipes come out of
+the bank and walk towards the eastern exit of the square. You recognice this person as Jessie James, the owner of the bank.(Hook to follow him)
+Walking to the entrence you see two guards(one buff, one melee) at the entrence of the bank taking care of weaponry. There is also a single buff guard patrolling around the outside of the bank.
+Inside the main hall you see a large room with a long desk streaching from one side to the other, split by three gates, one on each wall and a double gate in the middel. There are four lines of people
+and four employees behind the desk taking care of the customers in each line. At the back of the room there is a set of stairs leading up and down to other floors. There are five bank guards, on each
+side of the entrences(two buff, two ranged, one melee), and four police officers, one in each corner.
+
+
+Going to the Bank at night:
+You sneak to the bank near the south western entrence of the city and find yourself in a large square. Most of the open square is taken up by the bank, a large stone building with marble stairs leading
+up to a two giant wooden doors. Stone pilars decorate the front and hold a roof over the entrence, and the back of the building almost joins with the much lower houses beihind it to create a backalley.
+The square is almost empty of people and darknes obscures most of it except the front of the bank and some of the houses along the edges. These are lit by a torches hanging on the walls.
+Walking to the entrence you see two guards(one buff, one melee) at the entrence of the bank. One is almost sleeping and the other is looking bored. There is also a single buff guard patrolling around
+the outside of the bank. You are not allowed to go inside.
+
+
+Going to the Tavern:
+The Tavern is located in the marked. Lots of people at all hours of the day. Mostly the guards and other employees working at the bank, some even wearing their uniforms. There is one scared guy in the 
+corner alone, who can be intimidated or charmed into telling them a rough scetch of the bank and also that the police has been contacted. He also knows there is an alarm in the vault, and a code lock on 
+the door. Other then this, the gang can reduce the number of guard who will appear in the bank if they start a brawl and beat up 10 or more guys in a fight. This will remove 1 person from each floor of 
+the bank and Jessie's call for backup will fail the first time.
+
+
+Going to the Temple:
+There are many different people walking around the park. Some are coming and going to and from the temple, but others are having a picnic in the grass. Inside there are lots of religious workers for all
+matters of different religions. Statues of all kinds of gods and dieties line the walls with groups of people praying or kneeling in front of them.
+
+
+Going to the Library:
+An old stone building with a glass and iron dome on the roof of building. No people are here, but going inside you can find a very nice librarian monkey person who can help you find whatever you need.
+Particularly the floorplans of the bank. When going here the first or second day, you will pass a group of Gorilla guards going from door to door and asking citizens if they can check their house for
+suspicious thieves. On the second day the guards will be seen around the temple, while on the first day they are up at the library. This hints at the guards checking the town from north to south, checking
+for thieves.
+
+
+Going to the Market:
+Here you can buy food, weapons, potions and herbs. You can also buy horses and go to a circus. This is also where the tavern is located. Mostly the same things as in the black market, just 10% more 
+expensive and no illigal products like black powder and poisons.
+
+
+Going to the Castle:
+There are guards in front of the castle walls blocking the way. This place is out of bounds for anyone at the moment, as a result of rumours of a notorious gang of thieves having come to the town. Anyone
+who ask the guards about any information will be told to talk to the police in the barracks.
+
+
+Going to the Barraks:
+The "Police station" where Carmelita hangs out in the day. If you climb up the side to a window you can overhear a conversation between Carmelita and a Gorilla about where there are staged guards at night.
