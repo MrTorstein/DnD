@@ -6,7 +6,8 @@ Master repository for all the files and templates I need.
   - Encyclopedias
     - Spell Encyclopedias
     - Class Specific Encyclopedias
-  - Self Made Content  
+  - Self Made Content
+    - Sly Campaign  
 
 5e Players Handbook  
 5e Basic Rules  
