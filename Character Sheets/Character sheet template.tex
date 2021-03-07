@@ -70,12 +70,12 @@
 \noindent \begin{tabularx}{\linewidth}{@{}l l}
 \Large \textbf{Stats:}		 	& 									\\
 \hline
-\textbf{Hit points:} 			& <Hp>/<hit dc $+$ Const.> 			\\
+\textbf{Hit points:} 			& <Hp>/<Hit Die $+$ Const.> 			\\
 \textbf{Hit dice available:}	& <HD>/<Lvl.>						\\
 \textbf{Armour class:} 			& <10 or Am.$+$Sh.$+$Dex.$+$Size> 	\\
 \textbf{Initiative:} 			& <Dex.>							\\
-\textbf{Speed:} 				& <Speed>	 						\\
-\textbf{Passive Wisdom:} 		& <10$+$Wiz>	 					\\
+\textbf{Speed:} 				& <Speed Mod.>	 						\\
+\textbf{Passive Wisdom:} 		& <10 $+$ Wiz. Mod.>	 					\\
 \textbf{Proficiency bonus:}		& +2								\\
 \textbf{Exp:} 					& 0/300
 		\end{tabularx}
@@ -114,7 +114,7 @@ Charisma 					& <Value> 				& <Value>
 \tabitem <Proficient Attribute> \\
 \tabitem <Proficient Attribute> \\
 		\end{tabularx}
-\noindent Spell save DC $= 8 + $<Prof. bon.>$ + $<Spell. Attribute>
+\noindent Spell save DC $= 8 +$<Prof. Bon.>$+$<Spell. Att. Mod.>
 
 \vspace{4mm}
 
@@ -122,7 +122,9 @@ Charisma 					& <Value> 				& <Value>
 {\Large \textbf{Weapons:}} \\
 \hline
 \tabitem <Starting Weapon> (proficient) <Damage> damage \\
-\tabitem <Starting Weapon> (proficient) <Damage> damage
+\tabitem <Starting Weapon> (proficient) <Damage> damage \\
+Hit $=$ 1d20 $+$ <ab. mod.> $+$ <prof.> \\
+Damage $=$ W.D. $+$ <ab. mod.>
 		\end{tabularx}
 
 \vspace{4mm}
@@ -150,6 +152,18 @@ Charisma 					& <Value> 				& <Value>
 \hline
 \tabitem <Proficient Item> \\
 \tabitem <Proficient Item>
+		\end{tabularx}
+
+\vspace{4mm}
+
+\noindent \begin{tabularx}{\linewidth}{@{}l}
+{\Large \textbf{Spell list "If you have one"}} 			\\
+\hline
+\textbf{Cantrips:}	 					\\
+\tabitem <Spell>						\\
+
+\textbf{1st. Level Spells:}				\\
+\tabitem <Spell>
 		\end{tabularx}
 	\end{multicols}
 
@@ -217,8 +231,8 @@ Charisma 					& <Value> 				& <Value>
 	\begin{tabularx}{\textwidth}{X|r}
 Item & Weight [kg] \\
 \hline
-<Items> \dotfill 							& <Weight> 	\\
 <Nr. of Gold pieces> gp 					& 			\\
+<Items> \dotfill 							& <Weight> 	\\
 \hline
 Sum 										& <Weight>
 	\end{tabularx}
