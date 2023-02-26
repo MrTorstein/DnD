@@ -1,0 +1,97 @@
+Main:
+    - Consept
+This is a dungeon created by Uri Gaybarin, the ancient and evil sorcerer whom lived 10 000 years ago, and have unlocked the solution to infinite life.
+He lives alone in a dungeon he has carved himself, at an unknown location, and sometimes when he needs company or entertainment he brings unfortunante
+adventurers into his dungeon to fight for their life and freedom. The dungeon consists of traps, monsters, puzzles and other stuff for players to
+interact with, solve and explore. And in the end there is a dangerous and powerfull boss waiting for the adventurers to beat. If the players succeed,
+riches and freedom await. If not, the name of the game contains deadly fun =)
+
+    - Intro
+Welcome!
+    
+    - Regions
+        o Entrence
+Where the players start. A crossroad of four ways, north, south, east and west, with a rope in the middle leading up to a hole which is sealed of.
+The place is well lit, and there are no dangers here.
+What players see:
+You are in a room which is well lit. The walls, floor and ceiling are worked stone tiles, and there are four torches, one in each corner of the main room.
+Out from the room, which is formed like a pluss sign, there are four different corridors leading in four different directions. Above you, in the ceiling,
+there is a hole which has been sealed of, and on the floor underneath is a coil of rope. You have a vague memory of having climbed down the rope, but not
+why or any further back then that.
+Dere befinner dere i et rom som er godt belyst. Veggene, taket og gulvet er uthugget stein, og det er fire fakler i hvert av hjørnene i hovedrommet. Ut
+fra det pluss formede rommet går det fire forskjellige ganger, i fire forskjellige retninger. Over dere, i taket, er det er hull som har blitt forseglet,
+og på gulvet under hullet ligger det en kveil med tau. Dere har vage minner om å ha klatret ned tauet, men ikke noe om hvorfor eller hva dere gjorde før
+det.
+        o Exit
+A room to the north which contains the door to the boss with seven key holes. There are also seven stone blocks with writing on, in seven different
+languages.
+Top left:
+Refers to the trap trial.
+Is written in Gnomish. If you speak Dwarvish or a language based on Dwarvish script you will realise this.
+Beware the spiral, you are not immortal. To start the trial, you enter the portal.
+Middle left:
+Refers to the puzzle trial.
+Is written in Elvish.
+The play is on, but the actors are dead. Guess the culprit who killed someone in their bed.
+Bottom left:
+Refers to the dexterity trial.
+Written in Halfling. If you speak Common you will realise this.
+Speed, luck, and intelligent thinking. Catch the prize or it disappeares when you're blinking.
+Top right:
+Refers to the labyrinth trial.
+Written in Abyssal.
+The darkness shrouds this place. Find your way in this dangerous maze.
+Middle right:
+Refers to the strength trial.
+Written in Giant. If you speak Dwarvish or a language based on Dwarvish script you will realise this.
+Muscles are key when your going here, but its not only riches these tiles want to share.
+Bottom right:
+Refers to the hidden trial.
+Written in Dwarvish. If you speak Dwarvish or a language based on Dwarvish script you will realise this.
+Here you must try to find what you seek. I hope you eat carrots 'cause your eyes can't be weak.
+Middle:
+Refers to the combat trial.
+Written in Common.
+Good Luck!
+What players see:
+You see a room with seven stone blocks standing on the ground around the room. At the side of the room opposite to the entrence you came in, is a stone
+door with seven key holes in a pattern similar to the stone blocks in the room.
+        o Trap trial
+This is the trial to the top left of the map. The entrence is along the path to the left, from the entrence to the puzzle trial, through an archway with a
+teal spiraling portal inside it. After entering the portal the player/players are teleported to the centre of a spiral with traps and deadly problems the
+player/players have to solve. The key starts at the middle of the spiral, and returns there if the holder of it dies within the spiral.
+First problem is a pit of spikes with monkeybars over them. Can be traversed with a dc 11 athletics check. Second pit is the same just a little longer.
+Same check and dc. Then there is a field of exploding and spellslot draining runs, a corridor with non-magical spiketraps, and some more runes in the third
+corridore. Then there are monkeybars over water with two schools of piranhas in it. The dc for spotting the piranhas is a 15 perception check. The dc for
+the monkeybars are also 15 this time. The next waters have the same dc, but there are no piranhas this time. Then there are three corridors with ice
+layered water on the floor. This ice will break if stepped on, unless a person's mass is distributed more than normally. If they choose to crawl over, they
+have a 50/50 chance of not breaking the ice. If the ice breaks, they are doused in icy water which gives you a level of exhaustion for every other turn
+they spend in the water. Next, there is a lagre rock ball which is released if one of the two triggers are stepped on. This ball will roll, at a speed of
+50 feet per turn along the path until it gets to the single block way at the end of the spiral. Along the way, it lookes like there are two minotaurs
+blocking the path. They are actually illutions. A perception check of dc 17 will reveal them as illusions. Then the players are done.
+Players see all sorts of stuff, and I will not write anything for this beforehand. Just look at the map and describe what is likely there.
+        o Puzzle trial
+This is an auditorium or a theater where a group of ghosts play out a murder mystery which the players will have to listen to and solve. The puzzle needs
+to be written.
+The players see:
+When you step into the room, you see a large theater with a stage at the opposite side of the entrence and two rows of stone benches leading down to the
+stage. As you move out into the room, you see a group of ghosts entering the stage through the back wall, each dressed in fine cloathing, and they start
+to play out a scene.
+The Butler has an affaire with guest number six.
+The Host is a vampire
+Guest one is innocente. He slept and
+        o Dexterity trial
+        o Combat trial
+        o Hidden trial
+        o Strength trial
+15 dc strength, for å løfte en helle. Redusert til 12 dc hvis de bruker hjelpemidler
+dc 10 for alle feller
+        o Labyrinth trial
+
+    - Boss Fight
+You see an open room lit by what seems like sunlight, coming from nowhere in particulare. The room has two rows of pillars, one on the left side of the
+room and one on the right, leading to a one meter tall stage in the back of the room. At the back of the stage there is a wooden door, and on the front in
+the middle of the stage, there is a ghost of what looks like an elf in robes.
+        o Speech (If interrupted, a skeleton will jump run in from the side of the room, seemingly spawning from nowhere, and takeing the hit. It then joins 
+                  the battle afterwords, and Uri acts like nothing happens)
+Finally!

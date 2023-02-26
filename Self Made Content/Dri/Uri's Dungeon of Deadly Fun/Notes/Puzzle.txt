@@ -1,0 +1,59 @@
+This is an auditorium or a theater where a group of ghosts play out a murder mystery which the players will have to listen to and solve.
+The players see:
+    When you step into the room, you see a large theater with a stage at the opposite side of the entrence and two rows of stone benches leading down to the stage. As you move out into
+    the room, you see a group of ghosts entering the stage through the back wall, each dressed in fine cloathing, as if from a 1500 Shakespeareian theatre, and they inform you they will
+    present a mystery you wil have to solve. You will be presented with a murder mystery and must choose a killer. You will be allowed to ask them one question each, as if you where one
+    of the guards, and one of the suspects will answer as if you had really asked them.
+    They start to play out a scene.
+    You understand the play is of a group of friends whom have gathered after a long time of not seeing eachother. The host has invited them to his
+    castle, and after a night sleeping over they find one of the guests dead in her room. The local guards are called and they examin the room of the
+    victim before calling the guests together for questioning. The victim has been killed by repeated strikes from a blunt object, but the guards also
+    find two small holes in the upper arm. When questioning the people in the castle, the guards ask two questions. First what the person did during the
+    night, and second what the relationship between the person and the victim was.
+    The Host:
+        1. I got served some food by my butler, then spendt the night working and reading in my study because I couldn't sleep.
+        2. We where great friends. Infact we have meet multiple times over the years to hang out.
+    The Butler:
+        1. I served my master some food and coffee, before I went to bed and slept all night. I awoke early and went to the kitchen, where I found Guest 2 eating,
+        so I started preparing breakfast for everyone else.
+        2. I had no real relation to her before tonight. Infact I havent met any of the guests before tonight.
+    Guest 1:
+        1. I was awoken by a cat outside the window, so I went to the livingroom to find a log, and threw it at the cat. In the morning I arose to eat the breakfast
+        prepared by the butler.
+        2. We had a falling out a long time ago, but we got over it and have been friendly whenever we meet.
+    Guest 2:
+        1. I slept all night and got up early, before everyone else. As the castle seemed warmer than I expected for a stone building, I was tempted to get som food,
+        so I went to the kitchen and made myself some bread, fruit and eggs. After a little while, I was joined by the butler, whom started making food for the
+        others aswell
+        2. We bearly knew eachother outside of this group, but I didn't like her that much. What happened to her was dreadfull though.
+    Guest 3:
+        1. I woke to a thud outside the window, like something heavy was thrown. After some time, while trying to sleep, I heard someone walking outside, but I must
+        have fallen asleep right afterwords, because I never heard that person comming back inside.
+        2. We where good friend, this whole ordeal is horrible.
+    Guest 4:
+        1. I slept badly, so I went for a walk outside to get some air. After some time I went inside again to try to sleep some more, and I noticed it had gotten
+        warmer than when I went outside. So I went to the kitchen to grab a bite, some fruit and nuts, before I got back to bed. I got up late, right before breakfast.
+        2. We where great friends for some time, but lately I haven't had the time to see her that often. It's a bit sad now really.
+    Guest 5:
+        1. I went to bed early, and slept through the night. In the morning I arose late, after being called for breakfast.
+        2. She was a friend, but I never really had that much to do with her.
+    Guest 6:
+        1. I went to bed early, and slept through the night. In the morning I arose late, after being called for breakfast.
+        2. She was one of my best friends early in life, but we drifted a little appart sadly.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
